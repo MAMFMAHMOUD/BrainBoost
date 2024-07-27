@@ -1,2 +1,2 @@
 # BrainBoost
-It enables stupid kids to learn.
+It enables kids to learn.
